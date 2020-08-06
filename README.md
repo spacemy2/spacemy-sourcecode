@@ -1,9 +1,13 @@
 # spacemy-sourcecode
 Source code for https://spacemy.cubebuilder.cf
+This is 
 # Setup
-I strongly recommend to use NGINX and not Apache
+**Recommendations**
+Use NGINX not Apache
+Use Linux (I recommend Debian) and not Windows.
 
-Clone the repo ```https://github.com/spacemy2/spacemy-sourcecode.git```
+Clone the repo 
+``` git clone https://github.com/spacemy2/spacemy-sourcecode.git```
 
 Change server_name on the nginx.conf to your domain
 
