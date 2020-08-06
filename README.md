@@ -1,6 +1,6 @@
 # spacemy-sourcecode
 Source code for https://spacemy.cubebuilder.cf
-This is 
+This is a countiuned verison  of TypicalName's discountined spacemy.
 # Setup
 **Recommendations**
 Use NGINX not Apache
